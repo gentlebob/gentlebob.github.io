@@ -1,0 +1,1 @@
+"https://www.gentlebob.com/cd/" + Math.floor(Math.random()*144)
